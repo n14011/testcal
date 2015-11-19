@@ -1,0 +1,43 @@
+.sat{
+  color: blue;
+}
+
+.holiday{
+  color:red;
+}
+.dec{
+  color:#DDDDDD;
+}
+
+/*.min > td{
+  width:48px;
+  height:48px;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  text-align:center;
+  background-color: #FFFFBB;
+  font-size:25px;
+}*/
+
+
+.min{
+  height:30px;
+  font-size:40px;
+  border: 1px solid #ccc;
+}
+.s{
+  height:60px;
+  font-size: 30px;
+}
+.a{
+  height:60px;
+  font-size:30px;
+  
+}
+.table{
+  border-collapse: collapse;
+}
+.table > tr >td{
+  text-align: center;
+  vertical-align:top;
+}
